@@ -1,0 +1,21 @@
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;;
+}
+
+.main-heading{
+  color: rgb(204, 18, 18);
+  font-size: 26px;
+}
+
+.underline{
+  height: 64;
+  width: 4rem;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.topbanner{
+  background-image: url('https://images.pexels.com/photos/3769747/pexels-photo-3769747.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+  background-size: cover;;
+}
